@@ -7,7 +7,6 @@ void ord(int valor, char *ext, int *sexo);
 void numCalc(int tres, char *exte, int *sex);
 void numCalcOrd(int tres, char *exte, int *sex);
 
-
 int main() {
   setlocale(LC_ALL, "Portuguese");
 
